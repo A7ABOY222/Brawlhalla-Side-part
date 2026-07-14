@@ -69,6 +69,36 @@ async def join(ctx):
         await ctx.send(f"Failed to join: {e}")
 
 
+@bot.command(name="joinid")
+async def joinid(ctx, channel_id: int):
+    """Join a voice channel by its ID. Usage: !joinid <channel_id>"""
+    channel = ctx.guild.get_channel(channel_id)
+
+    if channel is None:
+        await ctx.send(f"No channel found with ID `{channel_id}`.")
+        return
+
+    if not isinstance(channel, discord.VoiceChannel):
+        await ctx.send(f"**{channel.name}** is not a voice channel.")
+        return
+
+    if ctx.voice_client is not None:
+        if ctx.voice_client.channel == channel:
+            await ctx.send(f"Already in **{channel.name}**.")
+            return
+        await _safe_disconnect(ctx.voice_client)
+
+    try:
+        await channel.connect(timeout=15.0, reconnect=False, self_deaf=True)
+        await ctx.send(f"Joined **{channel.name}**.")
+    except discord.errors.ConnectionClosed as e:
+        await ctx.send(f"Voice connection closed unexpectedly (code {e.code}). Try again.")
+    except asyncio.TimeoutError:
+        await ctx.send("Timed out trying to join the voice channel.")
+    except Exception as e:
+        await ctx.send(f"Failed to join: {e}")
+
+
 @bot.command(name="leave")
 async def leave(ctx):
     """Leave the current voice channel."""
@@ -92,3 +122,4 @@ if __name__ == "__main__":
     if not token:
         raise ValueError("DISCORD_TOKEN environment variable is not set.")
     bot.run(token)
+    
