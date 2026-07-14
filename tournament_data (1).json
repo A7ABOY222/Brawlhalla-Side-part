@@ -1,0 +1,737 @@
+{
+  "tournament": {
+    "name": "Kurdish BH Tournament",
+    "state": "ended",
+    "players": [
+      "1416784808880636087",
+      "1067452963607547985",
+      "1012838142950256701",
+      "1418042620457914520",
+      "1415408918615556147",
+      "101107417856610304",
+      "1151819395300081694",
+      "1119952204829315162",
+      "1393667549333553242",
+      "901818195311226890",
+      "1000905191710785716",
+      "1166423686648180878",
+      "667793325729906699",
+      "853459339292442634",
+      "931990343820402769",
+      "1190936829038436373",
+      "1148577854829903882",
+      "756932360938848364",
+      "1113820915919241327",
+      "1281244818730647584",
+      "1006180250935361615",
+      "1481904547357265953",
+      "1021119754045509704",
+      "475756940887326721",
+      "1463238198011367445"
+    ],
+    "matches": [
+      {
+        "id": 1,
+        "round": 1,
+        "p1": "667793325729906699",
+        "p2": "1416784808880636087",
+        "winner": "1416784808880636087",
+        "state": "done",
+        "duelChannelId": null
+      },
+      {
+        "id": 2,
+        "round": 1,
+        "p1": "1481904547357265953",
+        "p2": "1166423686648180878",
+        "winner": "1481904547357265953",
+        "state": "done"
+      },
+      {
+        "id": 3,
+        "round": 1,
+        "p1": "994208614703173733",
+        "p2": "888750175932256276",
+        "winner": null,
+        "state": "done"
+      },
+      {
+        "id": 4,
+        "round": 1,
+        "p1": "1006180250935361615",
+        "p2": "1067452963607547985",
+        "winner": "1006180250935361615",
+        "state": "done"
+      },
+      {
+        "id": 5,
+        "round": 1,
+        "p1": "1098765203732185168",
+        "p2": "1111708849041309827",
+        "winner": null,
+        "state": "done"
+      },
+      {
+        "id": 6,
+        "round": 1,
+        "p1": "1151819395300081694",
+        "p2": "1418042620457914520",
+        "winner": "1151819395300081694",
+        "state": "done"
+      },
+      {
+        "id": 7,
+        "round": 1,
+        "p1": "1190936829038436373",
+        "p2": "101107417856610304",
+        "winner": "101107417856610304",
+        "state": "done"
+      },
+      {
+        "id": 8,
+        "round": 1,
+        "p1": "1021119754045509704",
+        "p2": "1415408918615556147",
+        "winner": "1415408918615556147",
+        "state": "done"
+      },
+      {
+        "id": 9,
+        "round": 1,
+        "p1": "1463238198011367445",
+        "p2": "1393667549333553242",
+        "winner": "1463238198011367445",
+        "state": "done",
+        "duelChannelId": null
+      },
+      {
+        "id": 10,
+        "round": 1,
+        "p1": "853459339292442634",
+        "p2": "1113820915919241327",
+        "winner": "853459339292442634",
+        "state": "done"
+      },
+      {
+        "id": 11,
+        "round": 1,
+        "p1": "1119952204829315162",
+        "p2": "1000905191710785716",
+        "winner": "1119952204829315162",
+        "state": "done"
+      },
+      {
+        "id": 12,
+        "round": 1,
+        "p1": "756932360938848364",
+        "p2": "1281244818730647584",
+        "winner": "756932360938848364",
+        "state": "done"
+      },
+      {
+        "id": 13,
+        "round": 1,
+        "p1": "1012838142950256701",
+        "p2": "475756940887326721",
+        "winner": "475756940887326721",
+        "state": "done"
+      },
+      {
+        "id": 14,
+        "round": 1,
+        "p1": "931990343820402769",
+        "p2": "870485579119357973",
+        "winner": "870485579119357973",
+        "state": "done"
+      },
+      {
+        "id": 15,
+        "round": 1,
+        "p1": "901818195311226890",
+        "p2": "1148577854829903882",
+        "winner": "901818195311226890",
+        "state": "done"
+      },
+      {
+        "id": 16,
+        "round": 2,
+        "p1": "1416784808880636087",
+        "p2": "1481904547357265953",
+        "winner": "1416784808880636087",
+        "state": "done"
+      },
+      {
+        "id": 17,
+        "round": 2,
+        "p1": "1006180250935361615",
+        "p2": "1151819395300081694",
+        "winner": "1006180250935361615",
+        "state": "done"
+      },
+      {
+        "id": 18,
+        "round": 2,
+        "p1": "101107417856610304",
+        "p2": "1415408918615556147",
+        "winner": "101107417856610304",
+        "state": "done"
+      },
+      {
+        "id": 19,
+        "round": 2,
+        "p1": "1463238198011367445",
+        "p2": "853459339292442634",
+        "winner": "853459339292442634",
+        "state": "done"
+      },
+      {
+        "id": 20,
+        "round": 2,
+        "p1": "1119952204829315162",
+        "p2": "756932360938848364",
+        "winner": "1119952204829315162",
+        "state": "done"
+      },
+      {
+        "id": 21,
+        "round": 2,
+        "p1": "475756940887326721",
+        "p2": "901818195311226890",
+        "winner": "475756940887326721",
+        "state": "done"
+      },
+      {
+        "id": 22,
+        "round": 3,
+        "p1": "1416784808880636087",
+        "p2": "1006180250935361615",
+        "winner": "1006180250935361615",
+        "state": "done"
+      },
+      {
+        "id": 23,
+        "round": 3,
+        "p1": "101107417856610304",
+        "p2": "853459339292442634",
+        "winner": "853459339292442634",
+        "state": "done"
+      },
+      {
+        "id": 24,
+        "round": 3,
+        "p1": "1119952204829315162",
+        "p2": "475756940887326721",
+        "winner": "475756940887326721",
+        "state": "done"
+      },
+      {
+        "id": 25,
+        "round": 4,
+        "p1": "1006180250935361615",
+        "p2": "853459339292442634",
+        "winner": "853459339292442634",
+        "state": "done"
+      },
+      {
+        "id": 26,
+        "round": 4,
+        "p1": "475756940887326721",
+        "p2": null,
+        "winner": "475756940887326721",
+        "state": "done"
+      },
+      {
+        "id": 27,
+        "round": 5,
+        "p1": "853459339292442634",
+        "p2": "475756940887326721",
+        "winner": "853459339292442634",
+        "state": "done"
+      }
+    ],
+    "current_round": 1,
+    "winner": "853459339292442634",
+    "created_by": "1416784808880636087",
+    "created_at": "2026-06-25T22:24:29.002Z"
+  },
+  "elo": {
+    "756932360938848364": {
+      "elo": 1000,
+      "wins": 1,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1281244818730647584": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "901818195311226890": {
+      "elo": 1000,
+      "wins": 1,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1148577854829903882": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "475756940887326721": {
+      "elo": 1033,
+      "wins": 3,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1012838142950256701": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "101107417856610304": {
+      "elo": 1016,
+      "wins": 2,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1190936829038436373": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1006180250935361615": {
+      "elo": 1032,
+      "wins": 3,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1067452963607547985": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "853459339292442634": {
+      "elo": 1079,
+      "wins": 5,
+      "losses": 0,
+      "tournaments": 1
+    },
+    "1113820915919241327": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "870485579119357973": {
+      "elo": 1016,
+      "wins": 1,
+      "losses": 0,
+      "tournaments": 0
+    },
+    "931990343820402769": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1463238198011367445": {
+      "elo": 1000,
+      "wins": 1,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1393667549333553242": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1119952204829315162": {
+      "elo": 1016,
+      "wins": 2,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1000905191710785716": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "994208614703173733": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "888750175932256276": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1098765203732185168": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1111708849041309827": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1415408918615556147": {
+      "elo": 1000,
+      "wins": 1,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1021119754045509704": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1151819395300081694": {
+      "elo": 1000,
+      "wins": 1,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1418042620457914520": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1416784808880636087": {
+      "elo": 1016,
+      "wins": 2,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "667793325729906699": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1481904547357265953": {
+      "elo": 1000,
+      "wins": 1,
+      "losses": 1,
+      "tournaments": 0
+    },
+    "1166423686648180878": {
+      "elo": 984,
+      "wins": 0,
+      "losses": 1,
+      "tournaments": 0
+    }
+  },
+  "history": [
+    {
+      "name": "Brawlhalla Tournament",
+      "winner": "1416784808880636087",
+      "players": 2,
+      "date": "2026-06-18T22:54:19.425Z"
+    },
+    {
+      "name": "Brawlhalla Tournament",
+      "winner": "1021119754045509704",
+      "players": 34,
+      "date": "2026-06-25T22:03:12.720Z"
+    },
+    {
+      "name": "Kurdish BH Tournament",
+      "winner": "853459339292442634",
+      "players": 25,
+      "date": "2026-07-05T15:30:52.337Z"
+    }
+  ],
+  "schedules": [
+    {
+      "id": 1,
+      "p1": "1281244818730647584",
+      "p2": "1416784808880636087",
+      "channelId": "1515414463359221860",
+      "timestamp": 1782079200000,
+      "reminded": true
+    }
+  ],
+  "pendingReports": [
+    {
+      "matchId": 1,
+      "winnerId": "1416784808880636087",
+      "loserId": "667793325729906699",
+      "reporterId": "1416784808880636087",
+      "channelId": "1515414463359221860"
+    }
+  ],
+  "logChannelId": "1520824015256682506",
+  "profiles": {
+    "1515398051727015996": {
+      "name": "/Brawlhalla for Kurd",
+      "avatar": "https://cdn.discordapp.com/avatars/1515398051727015996/ddc8231937e44f300f3ca60dc872937d.png?size=128"
+    },
+    "1067452963607547985": {
+      "name": "Bilal",
+      "avatar": "https://cdn.discordapp.com/avatars/1067452963607547985/1e068bde7faf930af589f19d6df422df.png?size=128"
+    },
+    "1416784808880636087": {
+      "name": "StRoNgX",
+      "avatar": "https://cdn.discordapp.com/avatars/1416784808880636087/c4683d6d4b6ec1697212f2e45bfc52ae.png?size=128"
+    },
+    "1012838142950256701": {
+      "name": "Charles¹⁶",
+      "avatar": "https://cdn.discordapp.com/avatars/1012838142950256701/f7db14b5ada46f0de1f2042e5bd0aa7c.png?size=128"
+    },
+    "768470649592217600": {
+      "name": "ov r7me",
+      "avatar": "https://cdn.discordapp.com/avatars/768470649592217600/1055c26715fce8deca52696e8317d630.png?size=128"
+    },
+    "506186003816513538": {
+      "name": "Lurkr",
+      "avatar": "https://cdn.discordapp.com/avatars/506186003816513538/a_c859b3d12adbb9428ad1336c178bad99.gif?size=128"
+    },
+    "1415408918615556147": {
+      "name": "C1oudyyy",
+      "avatar": "https://cdn.discordapp.com/avatars/1415408918615556147/3e8db90affb8ad9919ee2443904c90ba.png?size=128"
+    },
+    "1418042620457914520": {
+      "name": "Galactic ᴬ7ᵐᵃᵈ✹",
+      "avatar": "https://cdn.discordapp.com/avatars/1418042620457914520/a_f218676035a89d790dfa846f71e2b1ac.gif?size=128"
+    },
+    "1242385658757124126": {
+      "name": "Eryx",
+      "avatar": "https://cdn.discordapp.com/avatars/1242385658757124126/82f411121624ca312b0f7f9b910c2e2d.png?size=128"
+    },
+    "101107417856610304": {
+      "name": "Eren Yeager",
+      "avatar": "https://cdn.discordapp.com/avatars/101107417856610304/d69b1c4965cb4dd9bab9fc7ec8d2f6ab.png?size=128"
+    },
+    "870485579119357973": {
+      "name": "Star Night  RU7",
+      "avatar": "https://cdn.discordapp.com/avatars/870485579119357973/816f037b00703114af1aec73f726f65a.png?size=128"
+    },
+    "1151819395300081694": {
+      "name": "ShimOo",
+      "avatar": "https://cdn.discordapp.com/avatars/1151819395300081694/4752c0d02f8971e51e9f434400a7dde7.png?size=128"
+    },
+    "796827711514476565": {
+      "name": "Mr frost",
+      "avatar": "https://cdn.discordapp.com/avatars/796827711514476565/2932f5b64b33f4b007ff10a7908d5e77.png?size=128"
+    },
+    "851533070959116329": {
+      "name": "Mahmud",
+      "avatar": "https://cdn.discordapp.com/avatars/851533070959116329/3fe062374f0e173270339a2f56aa6956.png?size=128"
+    },
+    "783047613862772766": {
+      "name": "Alan",
+      "avatar": "https://cdn.discordapp.com/avatars/783047613862772766/b889503b26c7214d9c94d93c7b18862c.png?size=128"
+    },
+    "1119952204829315162": {
+      "name": "S h o 𖣂",
+      "avatar": "https://cdn.discordapp.com/avatars/1119952204829315162/04aecd4d3795b9a2fc0750f724afe1b9.png?size=128"
+    },
+    "1393667549333553242": {
+      "name": "SuRaa",
+      "avatar": "https://cdn.discordapp.com/avatars/1393667549333553242/c689b66aabe85821348f2043baf66d2f.png?size=128"
+    },
+    "901818195311226890": {
+      "name": "sero",
+      "avatar": "https://cdn.discordapp.com/avatars/901818195311226890/7a61daa7826ea69226bfeeec9b13c1d3.png?size=128"
+    },
+    "1000905191710785716": {
+      "name": "!         Toxic",
+      "avatar": "https://cdn.discordapp.com/avatars/1000905191710785716/e6b3b509e124b57ae7c14f7640dfc1b2.png?size=128"
+    },
+    "1166423686648180878": {
+      "name": "!                          Brwa",
+      "avatar": "https://cdn.discordapp.com/avatars/1166423686648180878/98daccb03d7ea8582cc109a90acd46da.png?size=128"
+    },
+    "667793325729906699": {
+      "name": "!                    SnowBoY",
+      "avatar": "https://cdn.discordapp.com/avatars/667793325729906699/5a4e455a9240777e22555de277e8ea6d.png?size=128"
+    },
+    "853459339292442634": {
+      "name": "Beni",
+      "avatar": "https://cdn.discordapp.com/avatars/853459339292442634/05142a21d0d870a5a62297b4f0c230a4.png?size=128"
+    },
+    "931990343820402769": {
+      "name": "Lhon good boy",
+      "avatar": "https://cdn.discordapp.com/avatars/931990343820402769/242091ce1c6e83fd1656889afc85fb16.png?size=128"
+    },
+    "1190936829038436373": {
+      "name": ".",
+      "avatar": "https://cdn.discordapp.com/avatars/1190936829038436373/b622a16f06555e25de99b4ffe67f6c16.png?size=128"
+    },
+    "1148577854829903882": {
+      "name": "Srud",
+      "avatar": "https://cdn.discordapp.com/avatars/1148577854829903882/545e1bc1b209f04ca85b3d2ccef9e74c.png?size=128"
+    },
+    "1516011940772708494": {
+      "name": "BFK System",
+      "avatar": "https://cdn.discordapp.com/avatars/1516011940772708494/801565377311f863b470ca2147b41ca6.png?size=128"
+    },
+    "756932360938848364": {
+      "name": "qubad",
+      "avatar": "https://cdn.discordapp.com/avatars/756932360938848364/9f203285706ea867c7ad48e2eeb31c97.png?size=128"
+    },
+    "1098765203732185168": {
+      "name": "Ｒ ｕ ｄ ｏ¹",
+      "avatar": "https://cdn.discordapp.com/avatars/1098765203732185168/ff4887595cf7927a393a6e1b60ba24ec.png?size=128"
+    },
+    "762217899355013120": {
+      "name": "TempVoice",
+      "avatar": "https://cdn.discordapp.com/avatars/762217899355013120/a_e2d87a0bc428b5e6f350f95f2d11cedd.gif?size=128"
+    },
+    "888750175932256276": {
+      "name": "zakaria",
+      "avatar": "https://cdn.discordapp.com/avatars/888750175932256276/bb46fa6e57840fbf951233f6afcc3562.png?size=128"
+    },
+    "1113820915919241327": {
+      "name": "『Destroyer』",
+      "avatar": "https://cdn.discordapp.com/avatars/1113820915919241327/0eb158176cff2eb46649ec555f52916f.png?size=128"
+    },
+    "1277411392189759635": {
+      "name": "fid3ym",
+      "avatar": "https://cdn.discordapp.com/avatars/1277411392189759635/ebc898a1a2cef2f259fe3d9e436f734e.png?size=128"
+    },
+    "1281244818730647584": {
+      "name": "Mr kimutin",
+      "avatar": "https://cdn.discordapp.com/avatars/1281244818730647584/d7777a08f01e396130b773b5c1d294ba.png?size=128"
+    },
+    "720351927581278219": {
+      "name": "Invite Tracker",
+      "avatar": "https://cdn.discordapp.com/avatars/720351927581278219/7ac935300e9bc3edcbc2de1b91c597b1.png?size=128"
+    },
+    "1006180250935361615": {
+      "name": "beyond",
+      "avatar": "https://cdn.discordapp.com/avatars/1006180250935361615/cb9209851dfd95dc719cfa2d296f336a.png?size=128"
+    },
+    "451379187031343104": {
+      "name": "LunaBot 🌙",
+      "avatar": "https://cdn.discordapp.com/avatars/451379187031343104/a_737b96d8af81a7914d144e2b3c9fc068.gif?size=128"
+    },
+    "1481904547357265953": {
+      "name": "Zioexx",
+      "avatar": "https://cdn.discordapp.com/avatars/1481904547357265953/42b6158b1b8d95279abe151d025be7f4.png?size=128"
+    },
+    "994208614703173733": {
+      "name": "Viltrumite",
+      "avatar": "https://cdn.discordapp.com/avatars/994208614703173733/6f0b576038afbfb72aed9aa58a82060b.png?size=128"
+    },
+    "546010127338307599": {
+      "name": "Niko",
+      "avatar": "https://cdn.discordapp.com/avatars/546010127338307599/1e097a24ed0d147459e0e26c421c02e6.png?size=128"
+    },
+    "282859044593598464": {
+      "name": "ProBot ✨",
+      "avatar": "https://cdn.discordapp.com/avatars/282859044593598464/156a0d2872579f1ffcaa5d2127239bfd.png?size=128"
+    },
+    "1400905911505129566": {
+      "name": "A M E R",
+      "avatar": "https://cdn.discordapp.com/avatars/1400905911505129566/1a3ae9d870ae5d443d9838e4d4b194a7.png?size=128"
+    },
+    "1514230164324880524": {
+      "name": "ZHER",
+      "avatar": "https://cdn.discordapp.com/avatars/1514230164324880524/b1949eacd6b7b70b28d367dd54d9e54f.png?size=128"
+    },
+    "1111708849041309827": {
+      "name": "Uryxx",
+      "avatar": "https://cdn.discordapp.com/avatars/1111708849041309827/829155d389770bc871da189827b16147.png?size=128"
+    },
+    "1021119754045509704": {
+      "name": "6s45",
+      "avatar": "https://cdn.discordapp.com/avatars/1021119754045509704/d79d03c0139147acb9d4a6e94cd81067.png?size=128"
+    },
+    "475756940887326721": {
+      "name": "kovan",
+      "avatar": "https://cdn.discordapp.com/avatars/475756940887326721/72f9160f18c6d41cb93d3731f572348e.png?size=128"
+    },
+    "1463238198011367445": {
+      "name": "- Obsession",
+      "avatar": "https://cdn.discordapp.com/avatars/1463238198011367445/05218247181e10cd0ea2b83c809c46f1.png?size=128"
+    },
+    "1498293688542167070": {
+      "name": "Robot.𝓓𝓲𝓭𝓪𝓻🥷",
+      "avatar": "https://cdn.discordapp.com/avatars/1498293688542167070/1f6f644df84d3ec0e8e753ea037389f0.png?size=128"
+    },
+    "408785106942164992": {
+      "name": "OwO",
+      "avatar": "https://cdn.discordapp.com/avatars/408785106942164992/1a449430e3a9a830efebb8c57917f943.png?size=128"
+    },
+    "1521903818504273951": {
+      "name": "Zane",
+      "avatar": "https://cdn.discordapp.com/avatars/1521903818504273951/1838af17e9c953e953e709b59c642b84.png?size=128"
+    },
+    "622007408813801472": {
+      "name": "⃟",
+      "avatar": "https://cdn.discordapp.com/avatars/622007408813801472/e7885e1635b4ebc14dc15ea65956e182.png?size=128"
+    },
+    "1504165033234534480": {
+      "name": "Mustafa",
+      "avatar": "https://cdn.discordapp.com/avatars/1504165033234534480/cab7bc1ccb557c3950e2c19c81ecc3e6.png?size=128"
+    },
+    "1483415052693540884": {
+      "name": "ᎪᎻᎷᎪᎠᴰᵃʳᵏˢᵐᵖ",
+      "avatar": "https://cdn.discordapp.com/avatars/1483415052693540884/260452b62b95d1cbfef082cb09d4938f.png?size=128"
+    },
+    "926466525425176627": {
+      "name": "blnd",
+      "avatar": "https://cdn.discordapp.com/avatars/926466525425176627/78f5b070d9289ecb641dd00dcb1ed555.png?size=128"
+    },
+    "828999339309137930": {
+      "name": "zhyar",
+      "avatar": "https://cdn.discordapp.com/avatars/828999339309137930/d4dff11c4d468ed1a59d1fb60dc544fe.png?size=128"
+    },
+    "1514803240074743883": {
+      "name": "vtxinbcamnfeequt",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/1.png"
+    },
+    "1199302698831462451": {
+      "name": "hades",
+      "avatar": "https://cdn.discordapp.com/avatars/1199302698831462451/d5155cabe9b4a4ee8537ddf6299d6848.png?size=128"
+    },
+    "505123902020911125": {
+      "name": "' Var'",
+      "avatar": "https://cdn.discordapp.com/avatars/505123902020911125/e59ad25ba2b587c0be0a728819153c8f.png?size=128"
+    },
+    "159985870458322944": {
+      "name": "MEE6",
+      "avatar": "https://cdn.discordapp.com/avatars/159985870458322944/765030df32975c5b23f8dfe86d6ff520.png?size=128"
+    },
+    "235148962103951360": {
+      "name": "Carl-bot",
+      "avatar": "https://cdn.discordapp.com/avatars/235148962103951360/ed3dac3b6e7a851df781632a4295fcb9.png?size=128"
+    },
+    "1525120747155095582": {
+      "name": "DodgeFrame",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/1.png"
+    },
+    "155149108183695360": {
+      "name": "Dyno",
+      "avatar": "https://cdn.discordapp.com/avatars/155149108183695360/b4fdfc64edff74c37e1574d34fad66c2.png?size=128"
+    },
+    "1488616343648600268": {
+      "name": "➰",
+      "avatar": "https://cdn.discordapp.com/avatars/1488616343648600268/64361f8ecc135f616a88f95aa76d470a.png?size=128"
+    }
+  },
+  "weaponRoleMessageId": "1524883225439240294",
+  "weaponRoleChannelId": "1515414463359221860",
+  "weaponSelections": {
+    "1416784808880636087": [
+      "Gauntlets",
+      "Bow"
+    ]
+  }
+}
